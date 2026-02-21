@@ -1,0 +1,97 @@
+[
+  {
+    "fullName": "maruf",
+    "email": "maruf@gmail.com",
+    "phone": "0172345678",
+    "address": "Saidpur",
+    "degree": "BSc",
+    "institute": "Baust",
+    "passingYear": "2028",
+    "cgpa": "3.9",
+    "company": "BrainStation23",
+    "position": "Sofware Engineer",
+    "durationFrom": "2029-12",
+    "durationTo": "2031-12",
+    "responsibilities": "gufibyrgvrbhc",
+    "totalExperienceYears": 1.998631074606434,
+    "skills": [
+      "briyevkrgb",
+      "hbcjshkvbw",
+      "bhcjkuvobe",
+      "heviyweew"
+    ],
+    "projects": [
+      {
+        "title": "CVBuilder",
+        "description": "a cvbuilder application",
+        "technologies": "javaswing"
+      }
+    ]
+  },
+  {
+    "fullName": "asif",
+    "email": "asif@gamil.com",
+    "phone": "234567",
+    "address": "gfcvauh",
+    "degree": "BSC",
+    "institute": "BAUST",
+    "passingYear": "2028",
+    "cgpa": "3.95",
+    "company": "Apple",
+    "position": "CEO",
+    "durationFrom": "2029-11",
+    "durationTo": "present",
+    "responsibilities": "fgtujej",
+    "totalExperienceYears": -3.9343414900055773,
+    "skills": [],
+    "projects": []
+  },
+  {
+    "fullName": "maynul",
+    "email": "maynul@gmail.com",
+    "phone": "2345678",
+    "address": "hvgfdjvcsd",
+    "degree": "BSc",
+    "institute": "Baust",
+    "passingYear": "2024",
+    "cgpa": "3.9",
+    "company": "Asus",
+    "position": "software engineer",
+    "durationFrom": "2025-12",
+    "durationTo": "present",
+    "responsibilities": "elfiywegwv",
+    "totalExperienceYears": -0.0154287942048825,
+    "skills": [
+      "C++",
+      "Java"
+    ],
+    "projects": []
+  },
+  {
+    "fullName": "rasel rahman",
+    "email": "raselrahman@gmail.com",
+    "phone": "435617348195",
+    "address": "saidpur",
+    "degree": "BSc",
+    "institute": "KU",
+    "passingYear": "2023",
+    "cgpa": "3.9",
+    "company": "google",
+    "position": "SoE",
+    "durationFrom": "2024-12",
+    "durationTo": "Present",
+    "responsibilities": "project manger",
+    "totalExperienceYears": 0.9839800892336553,
+    "skills": [
+      "Java",
+      ",C++"
+    ],
+    "projects": [
+      {
+        "title": "CvBuildersystem",
+        "description": "a java swing based project",
+        "technologies": ""
+      }
+    ]
+  }
+]
